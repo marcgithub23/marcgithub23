@@ -14,6 +14,12 @@
 
 ---
 
-# GitHub Stats
+# Stats
 
-![My GitHub stats](https://github-readme-stats-fdynbldgo-marcs-projects-c1a2c2ed.vercel.app/api?username=marcgithub23)
+## My GitHub Stats
+
+![My GitHub stats](https://github-readme-stats-git-master-marcs-projects-c1a2c2ed.vercel.app/api?username=marcgithub23&theme=dracula)
+
+## My Most Used Languages
+
+![My most used languages](https://github-readme-stats-git-master-marcs-projects-c1a2c2ed.vercel.app/api/top-langs?username=marcgithub23&layout=compact&langs_count=8&card_width=320&theme=dracula)
