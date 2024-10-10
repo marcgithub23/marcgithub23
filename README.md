@@ -26,9 +26,13 @@
 
 ---
 
-# My projects
+# My Projects
 
 ## Code Institute Portfolio Projects
+
+**Diploma in Full Stack Software Development with Predictive Analytics:** Credit-rated by The University of the West of Scotland (Level 6 on the National Framework of Qualifications (NFQ) Ireland, or Level 5 on the European Qualification Framework (EQF)), the course entailed completing five portfolio projects.
+
+Projects 1 and 2 are front end development with HTML, CSS, and JavaScript. Project 3 is back end development with Python. Project 4 is full stack development with Django. Project 5 is a specialisation in predictive analytics with data visualisation and AI/ML libraries such as Matplotlib, Seaborn, and Scikit-learn.
 
 | Project Title | Link | Description | Main Tech Used |
 | ------------- | ---- | ----------- | -------------- |
@@ -37,4 +41,30 @@
 | [**Portfolio Project 3: Noose Naught**](https://github.com/marcgithub23/pp3-noose-naught) | [Live Website](https://pp3-noose-naught-06bebcccec81.herokuapp.com/) | Noose Naught is a Python terminal project and its purpose is to provide entertainment via a game of hangman. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
 | [**Portfolio Project 2: Hogwarts History**](https://github.com/marcgithub23/pp2-hogwarts-history) | [Live Website](https://marcgithub23.github.io/pp2-hogwarts-history/) | The Hogwarts History web quiz app is for Potterheads, fans of the Harry Potter book series, who wish to have fun and test their knowledge of the Potterverse and the Wizarding World. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) |
 | [**Portfolio Project 1: Fantasy Fun**](https://github.com/marcgithub23/pp1-fantasy-fun) | [Live Website](https://marcgithub23.github.io/pp1-fantasy-fun/) | The Fantasy Fun wesbite is for people who wish to dip their toes into the fantasy genre as their first foray, as well as for people who are seasoned readers of the genre but wish to get recommendations for their next read. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white) |
+
+## Hackathons
+
+| Project Title | Link | Description | Main Tech Used |
+| ------------- | ---- | ----------- | -------------- |
+| [**Rhythm Ready:**](https://github.com/marcgithub23/classical_music_hackathon_marc) | n/a | Code Institute September 2024 classical music hackathon (Won 3rd place). A learning app to teach beginners how to play notes, scales, and chords on a piano. Users can test their knowledge with a fun game | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+
+## Full Stack Projects
+
+| Project Title | Link | Description | Main Tech Used |
+| ------------- | ---- | ----------- | -------------- |
+| [**Portfolio Project 4: Reads Reviews**](https://github.com/marcgithub23/pp4-reads-reviews) | [Live Website](https://pp4-reads-reviews-6c28ac11e5b9.herokuapp.com/) | The main purpose of this website is for users to register an account so they can post reviews of books they have read, as well as discuss other users' reviews via comments. | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+
+## Data Analysis/Science Projects
+
+| Project Title | Link | Description | Main Tech Used |
+| ------------- | ---- | ----------- | -------------- |
+| [**Portfolio Project 5: Hotel Hocuspocus**](https://github.com/marcgithub23/pp5-hotel-hocuspocus) | [Live Website](https://pp5-hotel-hocuspocus-10951e8f369c.herokuapp.com/) | This project aims to build a predictive model to implement as a tool via a dashboard to predict whether a customer will cancel their booking or not. | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
+
+## Walkthrough Projects
+
+Walkthrough projects I coded along with for learning and practice.
+
+| Project Title | Link | Description | Main Tech Used |
+| ------------- | ---- | ----------- | -------------- |
+| [**Robofriends:**](https://github.com/marcgithub23/robofriends) | [Live Website](https://marcgithub23.github.io/robofriends/) | ZTM front end development with React walkthrough project | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/react.js-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
