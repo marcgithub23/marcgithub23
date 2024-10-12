@@ -8,6 +8,8 @@ With a Master’s in Library and Information Science, I am eager to apply my sof
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marc-dagohoy-043111286/)!
 
+---
+
 # My Tech Stack
 
 | Category | Skills |
@@ -81,3 +83,6 @@ Walkthrough projects I coded along with for learning and practice.
 | [**Malaria Detection**](https://github.com/marcgithub23/WalkthroughProject01) | [Live Website](https://malaria-detection-ml-tuto-9d1bc09ebc14.herokuapp.com/) | Code Institute image classification task computer vision AI/ML (malaria detection) with TensorFlow walkthrough project | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
 | [**Django Blog**](https://github.com/marcgithub23/django-blog) | [Live Website](https://django-blogosphere-project-f325ff6466b5.herokuapp.com/) | Code Institute full stack website with Django walkthrough project | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20-%23336791.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white) |
 
+## Ongoing Projects
+
+Check out my ongoing projects pinned below, if any. I'm currently working on them so there might not be adequate README documentation.
