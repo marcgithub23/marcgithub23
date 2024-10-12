@@ -1,3 +1,13 @@
+# About Me
+
+As a passionate Junior Full Stack Software Developer, I bring hands-on experience in building and optimising web applications. My technical skills span across front-end development using HTML, CSS (Bootstrap), and JavaScript (React.js), and back-end development with Python (Django), Node.js, and PostgreSQL. Additionally, I leverage Python for data analysis, utilising libraries like Matplotlib, Seaborn, and Plotly to create visualisations.
+
+Beyond coding, I have a proven track record in communication and problem-solving, developed through customer-facing roles and cross-functional collaborations. I am adept at working in diverse team environments and partnering with external stakeholders to drive results and tackle technical challenges.
+
+With a Master’s in Library and Information Science, I am eager to apply my software development and data analysis skills in the libraries, museums, archives, and galleries sectors. I am equally enthusiastic about exploring opportunities in language technology, education technology, or other fields where I can continue learning and growing.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/marc-dagohoy-043111286/)!
+
 # My Tech Stack
 
 | Category | Skills |
